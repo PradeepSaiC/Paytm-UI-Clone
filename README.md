@@ -21,6 +21,6 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 2 Days
-### Live link - [Live Link](https://paytm-ui-clone-ten.vercel.app/)
+### Live link - live link removed because of copyright issue
 
 
